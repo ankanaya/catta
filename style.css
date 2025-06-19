@@ -1,0 +1,71 @@
+body {
+    background: url(images/cat-bg.jpg) left top fixed;
+    background-size: cover;
+    font-family: "Noto Sans JP", sans-serif, "Times";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.container{
+        max-width: 960px;
+}
+
+.container-camp {
+    max-width: 960px;
+    text-align: center;
+}
+
+.logo-small {
+  max-width: 150px;
+}
+
+footer {
+    background-color: #fcbe04;
+    margin: auto;
+
+}
+
+.my-margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.shop-container {
+    margin-top: -100px;
+}
+
+.product-container {
+    margin-top: -50px;
+}
+
+#carouselExampleAutoplaying {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.concept-image{
+    position: absolute;
+    bottom: 0px;
+    width: 25%;
+    height: auto;
+}
+/* 
+.button-box{
+    width: 28px;
+        height: 28px;
+        background-color: white;
+        color: black;
+        border: none;
+        border-radius: 50%;
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 2;
+        cursor: pointer;
+} */
